@@ -32,6 +32,7 @@ gem 'devise'
 
 group :development do
   gem 'rails_layout'
+  gem 'rails_apps_pages'
 end
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
